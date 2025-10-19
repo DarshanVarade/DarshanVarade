@@ -11,7 +11,7 @@
   <a href="https://www.codechef.com/users/darshan357" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://leetcode.com/u/Darshan357/" target="_blank">
+  <a href="https://leetcode.com/u/darshan-varade/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
